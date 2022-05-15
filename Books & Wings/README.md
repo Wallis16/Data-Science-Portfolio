@@ -1,5 +1,10 @@
 ## Data Analysis Project
-#### A famous investment group decided to open an e-commerce company aiming to sell books. The motivation behind this is unknown, probably it was a data-driven solution. The goal of this project is to collect data about books from big companies such as Amazon, eBay, and Textbooks, using this we intend to get insights into what would be more rentable for us. The project will use web scraping to collect data and identify the books with a higher rating, the number of rates, and the gender of the book, so we can estimate the most interesting books to be in the service to be sold. Each recommendation will have the estimated profit and our final deliverable will be a list of books with the best profits.
+
+<img src="https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/pexels-pixabay-159751.jpg" width="400">
+
+#### A famous investment group decided to open an e-commerce company aiming to sell books, and they ask us for recommending books with sale potential. The goal of this project is to collect and analyze data about bestseller books from big companies such as Amazon, eBay, and Barnes&Noble. We intend to use this data to get insights into what would be more relevant for our client.
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/presentation_image.jpg)
 
 ### Web Scraping
 Step by step of how to make web scraping using python. In this example, we made the web scraping on the eBay site.
