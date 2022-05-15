@@ -1,2 +1,29 @@
 ## Data Analysis Project
 #### A famous investment group decided to open an e-commerce company aiming to sell books. The motivation behind this is unknown, probably it was a data-driven solution. The goal of this project is to collect data about books from big companies such as Amazon, eBay, and Textbooks, using this we intend to get insights into what would be more rentable for us. The project will use web scraping to collect data and identify the books with a higher rating, the number of rates, and the gender of the book, so we can estimate the most interesting books to be in the service to be sold. Each recommendation will have the estimated profit and our final deliverable will be a list of books with the best profits.
+
+### Web Scraping
+Step by step of how to make web scraping using python. In this example, we made the web scraping on the eBay site.
+
+First, we need to know what we wish to collect. In our case, features such as title, price, and the number of ratings are considered relevant. Therefore, we select this part on the site and click on inspection.
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/web_scraping_step_by_step_1.png)
+
+After that, you will see an HTML highlighted code related to that part of the site. We are looking for an id that contains all the books. So, we search by <div id=”<>”>, in our case id=”top-products-container-wrapper”.
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/web_scraping_step_by_step_2.png)
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/web_scraping_step_by_step_3.png)
+
+Now that we have the id, let’s look for classes containing the data we are interested in. Starting with the title, we have the class “title”.
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/web_scraping_step_by_step_4.png)
+
+We make the same with the other data, to get the reviews, we use the class “reviews-aggregated-stars”.
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/web_scraping_step_by_step_5.png)
+
+Getting the price we need the class “trending-price”.
+
+![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/web_scraping_step_by_step_6.png)
+
+More details are available on the code. Note that HTML code from the sites can change, so be aware of this when you will perform your web scraping.
