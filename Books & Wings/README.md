@@ -1,12 +1,16 @@
 ## Data Analysis Project
 
-<img src="https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/pexels-pixabay-159751.jpg" width="400">
+<img src="https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/books.jpg" width="400">
 
 #### A famous investment group decided to open an e-commerce company aiming to sell books, and they ask us for recommending books with sale potential. The goal of this project is to collect and analyze data about bestseller books from big companies such as Amazon, eBay, and Barnes&Noble. We intend to use this data to get insights into what would be more relevant for our client.
 
 ![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/presentation_image.jpg)
 
-### Web Scraping
+#### This data analysis follows the six phases shown in Google Data Analytics course: [ask, prepare, process, analyze, share, and act.](https://medium.com/codex/6-phases-of-data-analysis-according-to-google-9e084b89f848). The **ask** phase helped to figure out what data would be interesting for a company who wish to sell books and it is looking for recommendations based on data-driven solutions. **Prepare** data was the data collecting using web scraping. In **process** phase we cleaned the data. **Analyse** is our data analysis, which is available on a jupyter notebook and also in a notebook on Kaggle. The share phase is our insights also available on data analysis notebook. **Act** phase would be a company buy books based on our recommendations, as buy books of Colleen Hover, the top author in our bestseller data. 
+
+### Following we have some details about how we made the web scraping. 
+
+## Web Scraping
 Step by step of how to make web scraping using python. In this example, we made the web scraping on the eBay site.
 
 First, we need to know what we wish to collect. In our case, features such as title, price, and the number of ratings are considered relevant. Therefore, we select this part on the site and click on inspection.
