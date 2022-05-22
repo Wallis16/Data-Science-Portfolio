@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/books.jpg" width="400">
 
-#### A famous investment group decided to open an e-commerce company aiming to sell books, and they ask us for recommending books with sale potential. The goal of this project is to collect and analyze data about bestseller books from big companies such as Amazon, eBay, and Barnes&Noble. We intend to use this data to get insights into what would be more relevant for our client.
+#### A famous investment group decided to open an e-commerce company (**Books & Wings**) aiming to sell books, and they ask us for recommending books with sale potential. The goal of this project is to collect and analyze data about bestseller books from big companies such as Amazon, eBay, and Barnes&Noble. We intend to use this data to get insights into what would be more relevant for our client.
 
 ![alt text](https://github.com/Wallis16/Data-Science-Portfolio/blob/main/Books%20%26%20Wings/Figures/presentation_image.jpg)
 
