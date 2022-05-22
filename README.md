@@ -8,6 +8,9 @@
 
 #### This data analysis follows the six phases shown in the Google Data Analytics course: [ask, prepare, process, analyze, share, and act.](https://medium.com/codex/6-phases-of-data-analysis-according-to-google-9e084b89f848) The ask phase helped to figure out what data would be interesting for a company that wishes to sell books and is looking for recommendations based on data-driven solutions. Prepare data was the data collecting using web scraping. In the process phase, we cleaned the data. Analyse is our data analysis, which is available on a jupyter notebook and in a notebook on Kaggle. The sharing step is our insights available in the data analysis notebook. Act phase would be for a company buys books based on our recommendations, such as buying books by Colleen Hoover, the top author in our bestseller data.
 
+## Data analysis
+You can check the [data](https://github.com/Wallis16/Web-Scraping-and-EDA-Bookstore/tree/main/Books%20%26%20Wings/Data), [analysis](https://github.com/Wallis16/Web-Scraping-and-EDA-Bookstore/tree/main/Books%20%26%20Wings/Data%20Analysis), and [web scraping](https://github.com/Wallis16/Web-Scraping-and-EDA-Bookstore/tree/main/Books%20%26%20Wings/Web%20Scraping) on [Books and Wings](https://github.com/Wallis16/Web-Scraping-and-EDA-Bookstore/tree/main/Books%20%26%20Wings).
+
 ### Following we have some details about how we made the web scraping. 
 
 ## Web Scraping
